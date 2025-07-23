@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'Python Scrits with fuctions to stimate the Frechet Mean',
           imageUrl:
-            'https://luisgorozpe.github.io/Elip-Geo-Tan.png,
+            'https://luisgorozpe.github.io/Elip-Geo-Tan.png',
           link: 'https://luisgorozpe.github.io/under-construction.html',
         },
       ],
