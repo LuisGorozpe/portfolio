@@ -43,7 +43,7 @@ const CONFIG = {
         {
           title: 'Frechet Mean',
           description:
-            'Python Scrits with fuctions to stimate the Frechet Mean',
+            'Python Scrits with fuctions to estimate the Frechet Mean',
           imageUrl:
             'https://luisgorozpe.github.io/Elip-Geo-Tan.png',
           link: 'https://luisgorozpe.github.io/under-construction.html',
