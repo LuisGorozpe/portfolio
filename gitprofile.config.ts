@@ -33,20 +33,20 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Phd Tesis',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Probability and Statistics Phd Tesis about No lineal Statistics',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://luisgorozpe.github.io/torus.png',
+          link: 'https://luisgorozpe.github.io/under-construction.html',
         },
         {
-          title: 'Project Name',
+          title: 'Frechet Mean',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Python Scrits with fuctions to stimate the Frechet Mean',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://luisgorozpe.github.io/Elip-Geo-Tan.png,
+          link: 'https://luisgorozpe.github.io/under-construction.html',
         },
       ],
     },
@@ -154,8 +154,8 @@ x: '',
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    source: '', // medium | dev
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
