@@ -76,12 +76,12 @@ x: '',
   },
   resume: {
     fileUrl:
-      'https://www.w3.///tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://luisgorozpe.github.io/CV-Luis-Enrique-Ascencio-G.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
     'Bash',
-    'GNU/lnux',
+    'GNU/linux',
     'Statistics',
     'Mathematics',
     'Data Science',
