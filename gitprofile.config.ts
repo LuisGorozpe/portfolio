@@ -98,7 +98,7 @@ x: '',
     {
       company: 'Centro de Investigación en Matemáticas, A.C.',
       position: 'Graduate Teaching Assistant',
-      from: 'Octover 2022',
+      from: 'October 2022',
       to: 'July 2016',
       companyLink: 'https://www.cimat.mx',
     },
