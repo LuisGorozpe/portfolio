@@ -33,9 +33,9 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Phd Tesis',
+          title: 'Phd thesis',
           description:
-            'Probability and Statistics Phd Tesis about No lineal Statistics',
+            'Probability and Statistics Phd thesis about No lineal Statistics',
           imageUrl:
             'https://luisgorozpe.github.io/torus.png',
           link: 'https://luisgorozpe.github.io/under-construction.html',
@@ -119,17 +119,24 @@ x: '',
     },
   ],
   educations: [
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      {
+      institution: 'Centro de Investigación en Matemáticas, A.C.',
+      degree: 'PhD Studies in probability and statistics',
+      link:'https://www.cimat.mx'
+      from: '2025',
+      to: '2021',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Universidad Autónoma Metropolitana',
+      degree: 'Master’s degree in Mathematical Sciences',
+      from: '2021',
+      to: '2018',
+    },
+    {
+      institution: 'Universidad Autónoma Metropolitana',
+      degree: 'Bachelor of Mathematics',
+      from: '2017',
+      to: '2011',
     },
   ],
   publications: [
