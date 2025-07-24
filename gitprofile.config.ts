@@ -122,7 +122,6 @@ x: '',
       {
       institution: 'Centro de Investigación en Matemáticas, A.C.',
       degree: 'PhD Studies in probability and statistics',
-      link:'https://www.cimat.mx',
       from: '2025',
       to: '2021',
     },
