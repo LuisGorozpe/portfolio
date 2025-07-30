@@ -51,9 +51,9 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
+  seo: { title: 'Portfolio', description: '', imageURL: '' },
   social: {
-    linkedin: 'luis-e-ascencio-g-4b51642a',
+    linkedin: 'luisgorozpe',
 x: '',
    mastodon: '',
     researchGate: '',
